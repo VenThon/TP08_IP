@@ -1,0 +1,51 @@
+[
+    {
+        "email": "abc@gmail.com",
+        "username": "abc",
+        "firstname": "ab",
+        "lastname": "ab",
+        "password": "123456"
+    },
+    {
+        "email": "abcd@gmail.com",
+        "username": "abcd",
+        "firstname": "ab",
+        "lastname": "ab",
+        "password": "123456"
+    },
+    {
+        "email": "thon@gmail.com",
+        "username": "thon",
+        "firstname": "ven",
+        "lastname": "pov",
+        "password": "2468"
+    },
+    {
+        "email": "vengthon11@gmail.com",
+        "username": "abcde@gmail.com",
+        "firstname": "ab",
+        "lastname": "thon",
+        "password": "asdfghjkl"
+    },
+    {
+        "email": "aaaa@gmail.com",
+        "username": "aaaa",
+        "firstname": "bbbb",
+        "lastname": "cccc",
+        "password": "12345"
+    },
+    {
+        "email": "sopheak@gmail.com",
+        "username": "sopheak",
+        "firstname": "sor",
+        "lastname": "sopheak",
+        "password": "55555"
+    },
+    {
+        "email": "sopheak168@gmail.com",
+        "username": "sopheakGIC",
+        "firstname": "sor",
+        "lastname": "sopheak",
+        "password": "55555"
+    }
+]
